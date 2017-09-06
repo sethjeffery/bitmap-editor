@@ -1,0 +1,6 @@
+require './lib/commands/clear_command'
+require './lib/commands/colour_pixel_command'
+require './lib/commands/horizontal_segment_command'
+require './lib/commands/image_command'
+require './lib/commands/show_command'
+require './lib/commands/vertical_segment_command'
