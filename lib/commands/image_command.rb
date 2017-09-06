@@ -1,7 +1,5 @@
 require './lib/commands/command'
 
-class OutOfRangeError < ArgumentError; end
-
 # Creates a brand new image table with the given X Y dimensions.
 class ImageCommand
   include Command
