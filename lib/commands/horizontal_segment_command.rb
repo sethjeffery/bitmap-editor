@@ -1,5 +1,6 @@
 require './lib/commands/command'
 
+# Fills in a horizontal line with the given colour.
 class HorizontalSegmentCommand
   include Command
   shortcut :h

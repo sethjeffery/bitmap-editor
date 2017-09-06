@@ -1,5 +1,6 @@
 require './lib/commands/command'
 
+# Fills in a vertical line with the given colour.
 class VerticalSegmentCommand
   include Command
   shortcut :v
